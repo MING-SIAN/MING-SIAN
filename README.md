@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 - 🎓 國立臺北科技大學 (National Taipei University of Technology)
 - 🏆 AIdea: 2021-自動光學瑕疵檢測 46/487 (9.4%)
 
-<img height="160" align="center" src="https://github-profile-trophy.vercel.app/?username=MING-SIAN&theme=onedark" />
+<img height="160" align="center" src="https://github-profile-trophy.vercel.app/?username=MING-SIAN&theme=dracula" />
 
 
